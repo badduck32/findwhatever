@@ -44,7 +44,7 @@ export const i18n = (text) => {
 		case '重置本页': return 'Revert to default settings'
 		case '确定重置吗？': return 'Are you sure you want to revert your settings to the default settings?'
 		case '确定': return 'Yes'
-		case '取消': return 'Cancel'
+		case '取消': return 'No'
 		case '重置成功': return 'Reverted successfully'
 
 		case '保存本页': return 'Save settings'
